@@ -1,11 +1,11 @@
 ---
 
-# 📚 CRUD de Gestión de Cursos Online
+# CRUD de Gestión de Cursos Online
 
 Este proyecto es una aplicación web que permite gestionar cursos online mediante un sistema.
-La interfaz está desarrollada con tecnologías modernas y permite a los administradores agregar nuevos cursos, editarlos, eliminarlos o ver su información detalladamente.
+La interfaz está desarrollada con tecnologías modernas y permite agregar nuevos cursos, editarlos, eliminarlos o ver su información detalladamente.
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
 - Crear nuevos cursos con título, descripción, instructor y temática.
 - Listar todos los cursos existentes.
@@ -13,11 +13,11 @@ La interfaz está desarrollada con tecnologías modernas y permite a los adminis
 - Eliminar cursos.
 - Interfaz amigable y dinámica.
 
-## 🛠️ Tecnologías usadas
+## Tecnologías usadas
 
 - **Frontend:** React, Vite, Tailwind CSS
 
-## 📦 Instalación y ejecución local
+## Instalación y ejecución local
 
 Sigue estos pasos para correr el proyecto en tu máquina:
 
